@@ -5,9 +5,12 @@ The goal of this project is to train a model used to recognize captcha. This pro
 The network is trained by TensorFlow on Nvidia Geoforce 1090 card.
 
 ## Result
-Go to [test.ipynb](https://github.com/kevinlzb/Captcha-Recognition/blob/master/test.ipynb) to check the test result.
-<img src=https://github.com/kevinlzb/Captcha-Recognition/blob/master/images/image1.png alt="img1"/> <img src=https://github.com/kevinlzb/Captcha-Recognition/blob/master/images/image2.png alt="img2"/>
-<img src=https://github.com/kevinlzb/Captcha-Recognition/blob/master/images/image6.png alt="img6"/> <img src=https://github.com/kevinlzb/Captcha-Recognition/blob/master/images/image7.png alt="img7"/>
+<img src=https://github.com/kevinlzb/Captcha-Recognition/blob/master/images/image1.png width="250" height="250"/>
+<img src=https://github.com/kevinlzb/Captcha-Recognition/blob/master/images/image2.png width="250" height="250"/>
+<img src=https://github.com/kevinlzb/Captcha-Recognition/blob/master/images/image6.png width="250" height="250"/> 
+<img src=https://github.com/kevinlzb/Captcha-Recognition/blob/master/images/image7.png width="250" height="250"/>
+
+Go to [test.ipynb](https://github.com/kevinlzb/Captcha-Recognition/blob/master/test.ipynb) to check the test result
 
 ## Data preparation
 1. Generate Captcha Images
