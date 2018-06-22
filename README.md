@@ -6,7 +6,10 @@ The network is trained by TensorFlow on Nvidia Geoforce 1090 card.
 
 ## Result
 Go to [test.ipynb](https://github.com/kevinlzb/Captcha-Recognition/blob/master/test.ipynb) to check the test result.
-
+[image1](https://github.com/kevinlzb/Captcha-Recognition/blob/master/images/image1.png)
+[image2](https://github.com/kevinlzb/Captcha-Recognition/blob/master/images/image2.png)
+[image3](https://github.com/kevinlzb/Captcha-Recognition/blob/master/images/image6.png)
+[image4](https://github.com/kevinlzb/Captcha-Recognition/blob/master/images/image7.png)
 ## Data preparation
 1. Generate Captcha Images
   Used python ImageCaptcha library to generate raw images, with 4 numbers on it. The size of the raw image is 3 * 224 * 224
